@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+data/raw_data/
+
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment files
+.env
+
+# Lib directory
+Lib/
+
+data/processed_data/
+data/faiss_index/
+data/embeddings/
