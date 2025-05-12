@@ -6,7 +6,6 @@ __pycache__/
 venv/
 env/
 
-data/raw_data/
 
 *.log
 
@@ -23,3 +22,4 @@ Lib/
 data/processed_data/
 data/faiss_index/
 data/embeddings/
+data/raw_data/
